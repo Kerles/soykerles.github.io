@@ -353,12 +353,6 @@ button{
 .blocsapp-device-mbp{
 	background-image:url("img/Apple-Macbook-Pro.png");
 }
-/* = MacBook Space Grey
--------------------------------------------------------------- */
-
-.mb-space-grey{
-	background-image:url("img/Apple-Macbook-Space-Grey.png");
-}
 
 /* = Custom Styling
 -------------------------------------------------------------- */
@@ -439,13 +433,6 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 }
 .h4-lipemza-style{
 	font-family:"Oleo Script";
-}
-.divider-padding{
-	padding-top:0px;
-	padding-bottom:0px;
-}
-.h3-contato-style{
-	font-family:Domine;
 }
 
 /* = Colour
